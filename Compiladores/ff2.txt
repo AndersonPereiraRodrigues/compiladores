@@ -1,0 +1,5 @@
+read x ;
+read y ;
+read soma ;
+soma := x + y ;
+write soma

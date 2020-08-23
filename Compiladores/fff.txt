@@ -1,0 +1,12 @@
+read y ;
+soma := x + y ;
+write soma ;
+if soma < x then
+write x
+else
+if soma < y then
+write y
+else
+write soma
+end
+end
